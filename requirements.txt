@@ -1,8 +1,0 @@
-tensorflow
-keras
-NumPy
-панд
-sklearn
-Matplotlib
-SciPy
-statsmodels
